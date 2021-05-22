@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#video{
+    width: 300px;
+    height: 100px;
+}
+.img-responsive{
+    width: 1000px;
+    height: 500px;
+}
